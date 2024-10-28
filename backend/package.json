@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Artificial Intelligent Module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superman1408/AI.git"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "Pratik Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superman1408/AI/issues"
+  },
+  "homepage": "https://github.com/superman1408/AI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "openai": "^4.68.4"
+  }
+}
